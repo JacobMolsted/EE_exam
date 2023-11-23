@@ -1,0 +1,62 @@
+version,year,ElArea,HeatArea_Category,Brændselstype,Teknologitype,Elkapacitet_MW,Varmekapacitet_MW,Elproduktion_TWh,Varmeproduktion_TWh,Brændselsforbrug_TWh
+KF23,2022,DK2,Centrale områder,Biomasse,Kraftvarme,915.218,1725.665,5.039,8.137,17.621
+KF23,2022,DK2,,Havvind,Havvind,1049.2,0.0,4.096,0.0,4.096
+KF23,2022,DK2,,Landvind,Landvind,755.446,0.0,1.837,0.0,1.837
+KF23,2022,DK2,,Solceller,Solceller,760.169,0.0,0.937,0.0,0.937
+KF23,2022,DK2,Centrale områder,Affald,Kraftvarme,82.993,359.237,0.702,2.892,4.66
+KF23,2022,DK2,Centrale områder,Naturgas,Kraftvarme,183.328,179.794,0.185,0.136,0.46
+KF23,2022,DK2,Større decentrale områder,Affald,Kraftvarme,23.699,81.518,0.151,0.582,0.941
+KF23,2022,DK2,Større decentrale områder,Biomasse,Kraftvarme,28.505,122.811,0.128,0.588,1.039
+KF23,2022,DK2,Mindre decentrale områder,Biomasse,Kraftvarme,21.986,71.78,0.113,0.347,0.552
+KF23,2022,DK2,Mindre decentrale områder,Biogas,Kraftvarme,13.327,14.925,0.096,0.107,0.245
+KF23,2022,DK2,Større decentrale områder,Naturgas,Kraftvarme,166.389,187.595,0.058,0.068,0.149
+KF23,2022,DK2,Mindre decentrale områder,Naturgas,Kraftvarme,101.657,126.586,0.036,0.042,0.09
+KF23,2022,DK2,Centrale områder,Kul,Kondens,21.34,0.0,0.031,0.0,0.099
+KF23,2022,DK2,,Biogas,Industriel overskudsel,5.375,0.0,0.026,0.0,0.059
+KF23,2022,DK2,Centrale områder,Biogas,Kraftvarme,3.047,3.275,0.026,0.028,0.062
+KF23,2022,DK2,Centrale områder,Olie,Kraftvarme,2.777,8.328,0.017,0.054,0.092
+KF23,2022,DK2,,Naturgas,Industriel overskudsel,33.08,0.0,0.013,0.0,0.026
+KF23,2022,DK2,,Biogas,Kondens,1.174,0.0,0.006,0.0,0.02
+KF23,2022,DK2,Centrale områder,Biogas,Industriel overskudsel,1.66,0.0,0.005,0.0,0.01
+KF23,2022,DK2,,Olie,Kondens,36.522,0.0,0.003,0.0,0.006
+KF23,2022,DK2,Mindre decentrale områder,Biogas,Industriel overskudsel,0.53,0.0,0.003,0.0,0.006
+KF23,2022,DK2,Større decentrale områder,Biogas,Industriel overskudsel,0.46,0.0,0.002,0.0,0.005
+KF23,2022,DK2,Centrale områder,Olie,Kondens,62.76,0.0,0.001,0.0,0.003
+KF23,2022,DK2,,Naturgas,Kondens,35.105,0.0,0.0,0.0,0.0
+KF23,2022,DK2,Centrale områder,Affald,Kedel,0.0,7.0,0.0,0.041,0.067
+KF23,2022,DK2,Centrale områder,Biogas,Industrivarme,0.0,1.51,0.0,0.002,0.002
+KF23,2022,DK2,Centrale områder,Biogas,Kedel,0.0,7.29,0.0,0.007,0.009
+KF23,2022,DK2,Centrale områder,Biomasse,Kedel,0.0,39.522,0.0,0.097,0.11
+KF23,2022,DK2,Centrale områder,Industrivarme,Industrivarme,0.0,0.9,0.0,0.003,0.0
+KF23,2022,DK2,Centrale områder,Naturgas,Kedel,0.0,1049.665,0.0,0.017,0.019
+KF23,2022,DK2,Centrale områder,Naturgas,Kondens,2.7,0.0,0.0,0.0,0.0
+KF23,2022,DK2,Centrale områder,Olie,Industriel overskudsel,1.25,0.0,0.0,0.0,0.0
+KF23,2022,DK2,Centrale områder,Olie,Kedel,0.0,1214.422,0.0,0.302,0.342
+KF23,2022,DK2,Centrale områder,Solvarme,Solvarme,0.0,2.1,0.0,0.001,0.001
+KF23,2022,DK2,Større decentrale områder,Affald,Kedel,0.0,8.346,0.0,0.02,0.026
+KF23,2022,DK2,Større decentrale områder,Biogas,Industrivarme,0.0,1.33,0.0,0.002,0.003
+KF23,2022,DK2,Større decentrale områder,Biomasse,Kedel,0.0,169.194,0.0,0.308,0.313
+KF23,2022,DK2,Større decentrale områder,Industrivarme,Industrivarme,0.0,2.0,0.0,0.011,0.0
+KF23,2022,DK2,Større decentrale områder,Naturgas,Kedel,0.0,609.367,0.0,0.154,0.154
+KF23,2022,DK2,Større decentrale områder,Olie,Kedel,0.0,57.83,0.0,0.016,0.019
+KF23,2022,DK2,Større decentrale områder,Olie,Kraftvarme,0.014,0.062,0.0,0.0,0.001
+KF23,2022,DK2,Større decentrale områder,Solvarme,Solvarme,0.0,2.88,0.0,0.002,0.002
+KF23,2022,DK2,Større decentrale områder,Varmepumper(overskudsvarme),Varmepumper(overskudsvarme),-0.167,0.9,0.0,0.002,0.002
+KF23,2022,DK2,Mindre decentrale områder,Affald,Kedel,0.0,3.217,0.0,0.02,0.022
+KF23,2022,DK2,Mindre decentrale områder,Biogas,Kedel,0.0,4.061,0.0,0.003,0.004
+KF23,2022,DK2,Mindre decentrale områder,Biomasse,Industrivarme,0.0,3.8,0.0,0.027,0.027
+KF23,2022,DK2,Mindre decentrale områder,Biomasse,Kedel,0.0,395.102,0.0,0.918,0.94
+KF23,2022,DK2,Mindre decentrale områder,Industrivarme,Industrivarme,0.0,19.3,0.0,0.051,0.0
+KF23,2022,DK2,Mindre decentrale områder,Naturgas,Kedel,0.0,407.324,0.0,0.024,0.024
+KF23,2022,DK2,Mindre decentrale områder,Naturgas,Kondens,2.0,0.0,0.0,0.0,0.0
+KF23,2022,DK2,Mindre decentrale områder,Olie,Kedel,0.0,209.911,0.0,0.011,0.012
+KF23,2022,DK2,Mindre decentrale områder,Olie,Kondens,734.0,0.0,0.0,0.0,0.0
+KF23,2022,DK2,Mindre decentrale områder,Olie,Kraftvarme,0.009,0.02,0.0,0.0,0.0
+KF23,2022,DK2,Mindre decentrale områder,Solvarme,Solvarme,0.0,179.046,0.0,0.107,0.107
+KF23,2022,DK2,Centrale områder,Varmepumper(overskudsvarme),Varmepumper(overskudsvarme),-0.885,7.18,-0.004,0.035,0.035
+KF23,2022,DK2,Større decentrale områder,Varmepumper,Varmepumper,-4.412,15.0,-0.02,0.069,0.069
+KF23,2022,DK2,Centrale områder,Varmepumper,Varmepumper,-10.137,35.02,-0.025,0.085,0.085
+KF23,2022,DK2,Mindre decentrale områder,Varmepumper,Varmepumper,-14.465,45.8,-0.047,0.153,0.153
+KF23,2022,DK2,Mindre decentrale områder,Elkedler,Elpatron,-86.1,86.1,-0.077,0.077,0.077
+KF23,2022,DK2,Større decentrale områder,Elkedler,Elpatron,-40.0,40.0,-0.08,0.08,0.08
+KF23,2022,DK2,Centrale områder,Elkedler,Elpatron,-205.2,205.2,-0.093,0.093,0.093
